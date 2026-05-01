@@ -14,8 +14,8 @@ This project explores a large-scale French retail dataset to uncover the drivers
 
 ## 🖥️ Dashboard 1 — Sales Performance & Trends
 
-(<img width="1512" height="791" alt="image" src="https://github.com/user-attachments/assets/ad9ea41f-f3b2-46f5-9adb-c1264f343497" />
-)[Dashboard 1]
+<img width="1512" height="791" alt="image" src="https://github.com/user-attachments/assets/ad9ea41f-f3b2-46f5-9adb-c1264f343497" />
+
 
 ### Key Metrics
 | Metric | Value |
