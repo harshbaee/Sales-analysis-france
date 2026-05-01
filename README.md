@@ -88,10 +88,7 @@ Individual cashiers (IDs) plotted by sales Amount vs Margin. Two standout cashie
 
 ```
 📁 Sales-Analysis-France/
-├── Dashboard1.twbx          # Sales Performance & Trends
-├── Dashboard2.twbx          # Customer & Product Analysis
-├── dashboard1.png           # Dashboard 1 screenshot
-├── dashboard2.png           # Dashboard 2 screenshot
+├── Sales Analysis of France.pptx          # Project Summary
 └── README.md
 ```
 
