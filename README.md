@@ -42,8 +42,7 @@ Products mapped by Margin Ratio (X) vs Total Revenue (Y). Top revenue products (
 
 ## 👥 Dashboard 2 — Customer & Product Analysis
 
-![Dashboard 2](<img width="1512" height="788" alt="image" src="https://github.com/user-attachments/assets/bab41559-070d-4014-b2b7-a249dfb92bb8" />
-)
+<img width="1512" height="788" alt="image" src="https://github.com/user-attachments/assets/bab41559-070d-4014-b2b7-a249dfb92bb8" />
 
 ### Key Metrics
 | Metric | Value |
